@@ -9,9 +9,8 @@
 
 ## 🚀 About Me
 
-Motivated and detail-oriented commerce graduate passionate about transforming raw data into clear, actionable insights.  
-I bring hands-on experience in auditing, data analysis, and data visualization. My academic background and practical exposure have fueled my drive to contribute to business decision-making and digital transformation initiatives.
-
+Commerce graduate specializing in Information Systems & Management, passionate about turning data into actionable insights, 
+Skilled in Python, Excel.with hands-on experience in auditing, data analysis, and reporting.
 ---
 
 ## 💼 Experience
