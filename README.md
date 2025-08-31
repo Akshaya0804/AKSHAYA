@@ -46,10 +46,16 @@ Skilled in Python, Excel.with hands-on experience in auditing, data analysis, an
 - **Projects
   A Study on Consumer Preferences Toward Selection on four-wheelers of Maruti Suzuki in Thanjavur City**  
   _IJREISS, Vol. 9, Issue 3, Mar 2025_  
-  Conducted a study analyzing purchasing behavior and brand loyalty among car buyers in Thanjavur.
+  This study explores how consumers in Thanjavur choose Maruti Suzuki cars, focusing on factors like affordability, fuel
+  efficiency,and brand trust.It highlights shifting preferences toward safety, design, and   technology due to rising incomes
+   and digital influence.Maruti Suzuki maintains market leadership by expanding dealerships, offering hybrid models, and enhancing
+   customer service.Conducted a study analyzing purchasing behavior and brand loyalty among car buyers in Thanjavur.
 
 - **Technology and Innovation Research**  
   _Tamil Nadu State Council for Science and Technology, Oct 2024_  
+   The project “Technology and Innovation” explores how emerging technologies like AI, blockchain, and autonomous systems are
+  transforming industries such as healthcare, finance, and education. It highlights global trends, ethical concerns, digital
+  inclusion, and sustainability, emphasizing the role of innovation in solving societal challenges and driving economic growth.
   Explored trends in automation, digital transformation, and sustainable technology.
 
 ---
